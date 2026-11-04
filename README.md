@@ -290,8 +290,6 @@ frostlink-cold-storage-dashboard/
 │   ├── inventory.png
 │   ├── outbound.png
 │   └── expiry.png
-├── dashboard/
-│   └── FrostLink_Dashboard.pbix
 └── README.md
 ```
 
